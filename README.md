@@ -30,4 +30,4 @@ https://github.com/jongchank/syssw/blob/master/13_process_management/gethostuser
 
 ## <실행화면 예시>
 <img src =./pic/os_3.jpg>
-<img src =./pic/os4.jpg>
+<img src =./pic/os_4.jpg>
