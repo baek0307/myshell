@@ -196,9 +196,9 @@ void waste_time(int count, char s_arr[][30], float t_arr[])
             printf("++++++++++++++++++++++++++++++++++++++++++\n");
             add_time += t_arr[i];
         }
+		else
+            printf("\n모든 프로그램을 실행하는데 걸린시간은 %.4f초 입니다.\n\n\n",add_time);
         
-             printf("\n모든 프로그램을 실행하는데 걸린시간은 %.4f초 입니다.\n\n\n",add_time);
-        }
         
     }
 
