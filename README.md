@@ -22,3 +22,11 @@ https://github.com/jongchank/syssw/blob/master/13_process_management/gethostuser
 
 
 ## 2. 추가한 기능 및 이미지
+
+1. 사용자로부터 입력받을경우 입력받은 프로그램의 수와 그 순서를 출력해준다.
+
+2. 각프로그램별 실행시간을 측정하고 총 실행시간을 합산하여 보여주는 함수를 추가하였습니다. (이미지 추가)
+
+
+//<img src =./pic/os_1.jpg>
+//<img src =./pic/os_2.jpg>
