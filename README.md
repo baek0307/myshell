@@ -1,4 +1,4 @@
-#실시간 운영체제 과제 Myshell
+#Real Time OS assignment -  Myshell
 =================
 
 ## 1. 프로젝트 소개
